@@ -23,7 +23,7 @@
 <img width="211" height="331" alt="Lab-2" src="https://github.com/user-attachments/assets/ed568fe2-f931-4724-a7b6-790b0218d290" />
 
 
-<a href="https://app.diagrams.net/#LДиаграмма%20без%20названия.drawio#%7B%22pageId%22%3A%22GbqG-Z7rByqsM4VEGb5G%22%7D">Ссылка на блок-схему</a>
+<a href="https://app.diagrams.net/?src=about#Llab-2.drawio#%7B%22pageId%22%3A%22FVPlfg_Ta_Z5tTg9K6Iw%22%7D">Ссылка на блок-схему</a>
 
 ## 2. Реализация программы
 
