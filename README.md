@@ -12,10 +12,10 @@
    - `h` — Высота горки (метр)
    - `a_deg` — Угол наклона (град.)
    - `k` - Коэффициент трения
-3. Перевести значения угла в градусах в радианы:
-   `A_rad = A_deg * 3.14159 / 180.0`
-4. Вычислить путь санок:
-   `L = h / (sin(A_rad) - k * cos(A_rad))`
+3. Перевести значения угла в градусах в радианы
+   -`A_rad = A_deg * 3.14159 / 180.0`
+4. Вычислить путь санок
+   -`L = h / (sin(A_rad) - k * cos(A_rad))`
 5. Вывести результаты расчетов с подстановкой всех значений в текст.
 6. **Конец**
 
@@ -23,7 +23,7 @@
 <img width="211" height="331" alt="Lab-2" src="https://github.com/user-attachments/assets/ed568fe2-f931-4724-a7b6-790b0218d290" />
 
 
-<a href="https://drive.google.com/file/d/1L7YJkd9Ul4V_YGY8Ucew7AGyQpD0ygp8/view?usp=sharing">Ссылка на draw.io</a>
+<a href="https://drive.google.com/file/d/1L7YJkd9Ul4V_YGY8Ucew7AGyQpD0ygp8/view?usp=sharing">Ссылка на блок-схему</a>
 
 ## 2. Реализация программы
 
